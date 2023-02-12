@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 Atualmente desenvolvo Front-End utilizando React.js, HTML, CSS e JavaScript.
 
 Também realizo desafios programação Back-end e matemáticos na plataforma do URI e HackerRank
+
 Desafios de Programação Front-end por meio da plataforma: Frontend Mentor. 
+
 E para praticar pentest uso o HackTheBox.
 
 Nasci em Belém do Pará, aos 18 anos fui morar em Pato Branco - PR, No qual iniciei minha graduação no curso de Engenharia de computação, e paralelamente ingressei numa empresa Junior e participei do MEJ(Movimento Empresa Junior), participando de eventos e viajando pelo Brasil.
