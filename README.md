@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 
 
 I currently develop Front-End using React.js, HTML, CSS and JavaScript.
+
 I also perform Back-end programming and mathematical challenges on the URI and HackerRank platform.
+
 Front-end programming challenges through the platform: Frontend Mentor. 
+
 And for pentest practice i use HackTheBox.
 
 A little bit about me... 🙍🏻
