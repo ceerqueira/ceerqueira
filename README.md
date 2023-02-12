@@ -35,6 +35,8 @@ Front-end programming challenges through the platform: Frontend Mentor.
 
 And for pentest practice i use HackTheBox.
 
+advanced knowledge in physics and mathematics 📖
+
 <h5>A little bit about me... 🙍🏻 </h5>
 
 I was born in Belém do Pará, at the age of 18 moved to Pato Branco - PR, where I started my computer engineering degree, and at the same time I joined a Junior Company and participated of MEJ (Movimento Empresa Junior), attending events and traveling around Brazil.
