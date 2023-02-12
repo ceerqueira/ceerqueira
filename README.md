@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1335996)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAFa6KpXGiMoCWy3iQbRDvA)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ceerqueira)
-[![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-f5fcff?style=for-the-badge&logo=frontendmentor&logoColor=3F54A3)](https://www.frontendmentor.io/profile/ceerqueira)
+[![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-eafafa?style=for-the-badge&logo=frontendmentor&logoColor=3F54A3)](https://www.frontendmentor.io/profile/ceerqueira)
 
   
 
