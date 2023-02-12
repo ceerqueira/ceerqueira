@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorcerqueirabarros/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/victor-cerqueira-barros/)
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1335996)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g](https://www.youtube.com/channel/UCAFa6KpXGiMoCWy3iQbRDvA))
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAFa6KpXGiMoCWy3iQbRDvA)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ceerqueira)
+[![Frontend Mentor Badge](https://img.shields.io/badge/-Frontend%20Mentor-f5fcff?style=for-the-badge&logo=frontendmentor&logoColor=3F54A3)](https://www.frontendmentor.io/profile/ceerqueira)
+
+  
 
 </h4>
 
