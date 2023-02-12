@@ -27,17 +27,16 @@ Here are some ideas to get you started:
 </h4>
 
 
-Atualmente desenvolvo Front-End utilizando React.js, HTML, CSS e JavaScript.
+I currently develop Front-End using React.js, HTML, CSS and JavaScript.
+I also perform Back-end programming and mathematical challenges on the URI and HackerRank platform.
+Front-end programming challenges through the platform: Frontend Mentor. 
+And for pentest practice i use HackTheBox.
 
-Também realizo desafios programação Back-end e matemáticos na plataforma do URI e HackerRank
+A little bit about me... 🙍🏻
 
-Desafios de Programação Front-end por meio da plataforma: Frontend Mentor. 
+I was born in Belém do Pará, at the age of 18 moved to Pato Branco - PR, where I started my computer engineering degree, and at the same time I joined a Junior Company and participated of MEJ (Movimento Empresa Junior), attending events and traveling around Brazil.
+After reaching the 5th period of the course I decided to quit.
+Then at the age of 23 I decided to move to the European continent, knowing more than 8 countries, among them: Portugal, Spain, France, Germany, Switzerland, Italy, Croatia, Serbia, Macedonia and Greece. This allowed me to get to know many people, other ways of seeing the world, and to develop my Spanish and English.
+After 3 years I returned to Brazil.
 
-E para praticar pentest uso o HackTheBox.
-
-Nasci em Belém do Pará, aos 18 anos fui morar em Pato Branco - PR, No qual iniciei minha graduação no curso de Engenharia de computação, e paralelamente ingressei numa empresa Junior e participei do MEJ(Movimento Empresa Junior), participando de eventos e viajando pelo Brasil.
-Após chegar ao 5º periodo do curso decidi abandornar.
-Então aos 23 anos decidi me mudar para o continente europeu, conhecendo mais de 8 países, dentre eles: Portugal, Espanha, França, Alemanha, Suíça, Italia, Croácia, Servia, Macedonia e Grécia. Possibilitando conhecer varias pessoas, outras maneiras de vê o mundo, e desenvolvendo o Espanhol e Ingles.
-Após 3 anos retornei para o Brasil.
-
-Agora retornei aos estudos no curso de Analises e Desenvolvimento de Sistemas📚 e busco emprego na área de desenvolvimendo Web. 
+Now I'm back to my studies in the course of Analysis and Development of Systems📚 and I'm looking for a job in the area of Web development. 
