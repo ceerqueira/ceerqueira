@@ -34,7 +34,8 @@ Desafios de Programação Front-end por meio da plataforma: Frontend Mentor.
 E para praticar pentest uso o HackTheBox.
 
 Nasci em Belém do Pará, aos 18 anos fui morar em Pato Branco - PR, No qual iniciei minha graduação no curso de Engenharia de computação, e paralelamente ingressei numa empresa Junior e participei do MEJ(Movimento Empresa Junior), participando de eventos e viajando pelo Brasil.
-Aos 23 anos decidi me mudar para o continente europeu, conhecendo mais de 8 países, dentre eles: Portugal, Espanha, França, Alemanha, Suíça, Italia, Croácia, Servia, Macedonia e Grécia. Possibilitando conhecer varias pessoas, outras maneiras de vê o mundo, e desenvolvendo o Espanhol e Ingles.
+Após chegar ao 5º periodo do curso decidi abandornar.
+Então aos 23 anos decidi me mudar para o continente europeu, conhecendo mais de 8 países, dentre eles: Portugal, Espanha, França, Alemanha, Suíça, Italia, Croácia, Servia, Macedonia e Grécia. Possibilitando conhecer varias pessoas, outras maneiras de vê o mundo, e desenvolvendo o Espanhol e Ingles.
 Após 3 anos retornei para o Brasil.
 
-Agora retornei aos estudos.
+Agora retornei aos estudos no curso de Analises e Desenvolvimento de Sistemas📚 e busco emprego na área de desenvolvimendo Web. 
