@@ -38,7 +38,7 @@ Front-end programming challenges through the platform: Frontend Mentor.
 
 And for pentest practice i use HackTheBox.
 
-advanced knowledge in physics and mathematics 📖
+advanced knowledge in Algorithms, Data Structures, Programming Logic, Calculus and Physics 📖
 
 <h5>A little bit about me... 🙍🏻 </h5>
 
