@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </h4>
 
 
-I currently develop Front-End using React.js,Nodejs, HTML, CSS and JavaScript.
+I currently develop Front-End using React.js,Nodejs, HTML, CSS, JavaScript and TypeScript.
 
 I also perform Back-end programming and mathematical challenges on the URI and HackerRank platform.
 
