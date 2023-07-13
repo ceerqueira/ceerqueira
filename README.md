@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 I currently develop Front-End using React.js,Nodejs, HTML, CSS, JavaScript and TypeScript.
 
-I also perform Back-end programming and mathematical challenges on the URI and HackerRank platform.
+I also perform Back-end programming and mathematical challenges on the URI and HackerRank platform, and Java.
 
 Front-end programming challenges through the platform: Frontend Mentor. 
 
@@ -42,11 +42,4 @@ And for pentest practice i use HackTheBox.
 
 advanced knowledge in Algorithms, Data Structures, Programming Logic, Calculus and Physics 📖
 
-<h5>A little bit about me... 🙍🏻 </h5>
 
-I was born in Belém do Pará, at the age of 18 moved to Pato Branco - PR, where I started my computer engineering degree, and at the same time I joined a Junior Company and participated of MEJ (Movimento Empresa Junior), attending events and traveling around Brazil.
-After reaching the 5th period of the course I decided to quit.
-Then at the age of 23 I decided to move to the European continent, knowing more than 8 countries, among them: Portugal, Spain, France, Germany, Switzerland, Italy, Croatia, Serbia, Macedonia and Greece. This allowed me to get to know many people, other ways of seeing the world, and to develop my Spanish and English.
-After 3 years I returned to Brazil.
-
-Now I'm back to my studies in the course of Analysis and Development of Systems📚 and I'm looking for a job in the area of Web development. 
