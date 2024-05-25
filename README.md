@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 </h4>
 
 
-I currently develop FullStack using React.js,Nodejs, HTML, CSS, JavaScript and TypeScript.
+I currently develop FullStack using React.js,Vue.js, HTML, CSS, JavaScript, Java and PHP.
 
-I also perform Back-end programming and mathematical challenges on the URI and HackerRank platform, and Java.
+I also perform Back-end programming and mathematical challenges on the URI and HackerRank platform.
 
 Front-end programming challenges through the platform: Frontend Mentor. 
 
